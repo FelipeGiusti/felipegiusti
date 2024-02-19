@@ -29,8 +29,8 @@ Você pode me encontrar online em diferentes plataformas:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipegiusti2806/)](https://www.linkedin.com/in/felipegiusti2806/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/felipegiusti_)](https://instagram.com/felipegiusti_)
+[![Static Badge](https://img.shields.io/badge/-%20Emal?style=flat-square&logo=Email&logoColor=White&color=light%20blue)](felipeegiusti@gmail.com)
 
-- [Email](felipeegiusti@gmail.com)
 
 Não hesite em entrar em contato!
 
