@@ -21,6 +21,8 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipegiusti&show_icons=true&theme=dark)](https://github.com/felipegiusti)
 
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?felipegiusti=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contato
 
 Você pode me encontrar online em diferentes plataformas:
