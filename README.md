@@ -8,7 +8,7 @@ Olá! Eu sou Felipe Giusti, um entusiasta da tecnologia apaixonado por desenvolv
 - 🌱 Estou aprendendo HTML5, CSS3 e JavaScript utilizando a biblioteca React.JS.
 - 💬 Me dou bem em uma grande variedade de áreas de tecnologia e tenho conhecimentos sobre Customer Relationship Management(CRM).
 
-<!--
+
 ## Linguagens e Ferramentas
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -17,7 +17,7 @@ Olá! Eu sou Felipe Giusti, um entusiasta da tecnologia apaixonado por desenvolv
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
--->
+
 ## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipegiusti&show_icons=true&theme=dark)](https://github.com/felipegiusti)
