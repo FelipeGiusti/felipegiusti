@@ -25,8 +25,8 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 
 Você pode me encontrar online em diferentes plataformas:
 
-- [LinkedIn](link para o seu perfil no LinkedIn)
-- [Instagram](link para o seu website ou blog)
+- [LinkedIn](https://www.linkedin.com/in/felipegiusti2806)
+- [Instagram](https://instagram.com/felipegiusti_)
 - [Email](felipeegiusti@gmail.com)
 
 Não hesite em entrar em contato!
