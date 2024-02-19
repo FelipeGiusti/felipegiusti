@@ -27,10 +27,10 @@ Olá! Eu sou Felipe Giusti, um entusiasta da tecnologia apaixonado por desenvolv
 
 Você pode me encontrar online em diferentes plataformas:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipegiusti2806/)](https://www.linkedin.com/in/felipegiusti2806/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/felipegiusti_)](https://instagram.com/felipegiusti_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipegiusti2806/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/felipegiusti_)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=5544997720625&text=Ol%C3%A1!%20Peguei%20o%20seu%20contato%20via%20GitHub.)
-
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white)](https://uol.com.br)
 
 Não hesite em entrar em contato!
 
