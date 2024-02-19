@@ -19,9 +19,9 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 -->
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipegiusti&show_icons=true&theme=dark)](https://github.com/felipegiusti)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipegiusti&show_icons=true&theme=dark)](https://github.com/felipegiusti) [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiusti&layout=compact)](https://github.com/felipegiusti/github-readme-stats)
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiusti&layout=compact)](https://github.com/felipegiusti/github-readme-stats)
+
 
 ## Contato
 
