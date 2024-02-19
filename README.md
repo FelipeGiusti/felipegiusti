@@ -22,11 +22,12 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipegiusti&show_icons=true&theme=dark)](https://github.com/felipegiusti)
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiusti&layout=compact&theme=dark)](https://github.com/felipegiusti/github-readme-stats)
 
-## Contato
+## Minhas redes sociais
 
 Você pode me encontrar online em diferentes plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/felipegiusti2806)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipegiusti2806/)](https://www.linkedin.com/in/felipegiusti2806/)
+
 - [Instagram](https://instagram.com/felipegiusti_)
 - [Email](felipeegiusti@gmail.com)
 
