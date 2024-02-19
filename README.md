@@ -28,7 +28,7 @@ Olá! Eu sou Felipe Giusti, um entusiasta da tecnologia apaixonado por desenvolv
 Você pode me encontrar online em diferentes plataformas:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipegiusti2806/)](https://www.linkedin.com/in/felipegiusti2806/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram?style=flat-square&logo=Instagram&link=https://instagram.com/felipegiusti_)](https://instagram.com/felipegiusti_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&link=https://instagram.com/felipegiusti_)](https://instagram.com/felipegiusti_)
 
 - [Email](felipeegiusti@gmail.com)
 
