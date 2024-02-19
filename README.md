@@ -19,7 +19,7 @@ Aqui estão alguns dos projetos nos quais tenho trabalhado recentemente:
 -->
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipegiusti&show_icons=true&theme=radical)](https://github.com/felipegiusti)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipegiusti&show_icons=true&theme=dark)](https://github.com/felipegiusti)
 
 ## Contato
 
